@@ -15,13 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N0rbelio&theme=github_dark&show_icons=true)
+|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N0rbelio&theme=github_dark&show_icons=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N0rbelio&theme=github_dark&langs_count=90&layout=compact)|
+|----|----|
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N0rbelio&theme=github_dark&langs_count=8&layout=compact)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+
+<a href="https://github.com/N0rbelio/Linux-Custom-MOTD">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=N0rbelio&theme=github_dark&show_icons=true&repo=Linux-Custom-MOTD" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github.com/N0rbelio/mc_private_server" />
+<a href="https://github.com/N0rbelio/mc_private_server">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=N0rbelio&theme=github_dark&show_icons=true&repo=mc_private_server" />
 </a>
