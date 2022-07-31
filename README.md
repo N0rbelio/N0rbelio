@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/N0rbelio/mc_private_servert">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github.com/N0rbelio/mc_private_server" />
 </a>
