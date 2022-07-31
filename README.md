@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N0rbelio&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N0rbelio&theme=github_dark&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N0rbelio)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N0rbelio&theme=github_dark&langs_count=8&layout=compact)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/N0rbelio/mc_private_servert">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
