@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="pt-PT">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- Font stuff -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap" rel="stylesheet">
+    <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
+
+
+    <title>About me</title>
+    <!-- styles -->
+    <link rel="stylesheet" href="estilos/styles.css">
+    <!-- <link rel="stylesheet" href="estilos/sidebar.css"> -->
+    <link rel="stylesheet" href="estilos/crazy_styles.css"> 
+    <link rel="stylesheet" href="estilos/imagens.css"> 
+    <link rel="stylesheet" href="estilos/nav_style.css"> 
+
+
+</head>
+<body>
+    <div class="sidebar">
+        <div class="logo-details">
+            <div class="logo_name">N0ble's Page</div>
+            <i class='bx bx-menu' id="btn" ></i>
+        </div>
+        <ul class="nav-list"> 
+          <li>
+            <a href="index.html">
+              <i class='bx bx-home'></i>
+              <span class="links_name">Home Page</span>
+            </a>
+             <span class="tooltip">Home Page</span>
+          </li>
+          <li>
+           <a href="#" class="fruzanitas_active">
+             <i class='bx bxs-info-circle ' ></i>
+             <span class="links_name ">About Me</span>
+           </a>
+           <span class="tooltip">About Me </span>
+         </li>
+         <li>
+            <a href="in_dev.html">
+                <i class='bx bx-wrench'></i>
+                <span class="links_name">In Development</span>
+            </a>
+            <span class="tooltip">In Development</span>
+        </li>
+        </ul>
+      </div>
+
+
+    <div class="container">
+        <header>
+            <h1 class="main_glitch">About me :)</h1>
+        </header>
+        <div class="column_background_main">
+            <ul class="listas_general">
+                <div class="fruzanitas_text">
+                    <div class="image-container">
+                        <img src="images/main_profile_pic.png" alt="fogo de prefil">
+                    </div>
+                    <div>
+                        <div class="slit_container">
+                            <div class="split_background_main">
+                                <ul>
+                                    <li>Nome: André Oliveira</li>
+                                    <br>
+                                    <li>Nick: N0bleDeath</li>
+                                </ul>
+                            </div>
+
+                            <div class="split_background_main">
+                                <ul>
+                                    <li>Idade: 25 Anos</li>
+                                    <br>
+                                    <li> <a  class="border-button" href="https://steamcommunity.com/id/"target="_blank">Steam Profile</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="typing_borders">
+                        <div class="spacing"></div>
+                            <p style="text-align: justify;">Olá, chamo-me André e tenho 25 anos.</p>
+                    
+
+                    <div class="extra_spacing"></div>
+                        <h3>Projetos Curriculares</h3>
+                        <ol>
+                            <li>
+                                <p style="text-align: justify;">O primeiro grande projeto foi fazer uma aplicação em Python 3 que fizesse uma ligação à API do site ipma.pt para obter a previsão do tempo para uma determinada região escolhida pelo utilizador. O projeto tinha como requisitos fazer o aplicativo na linguagem Python 3. Desenvolver também um UI (User Interface) também em Python 3 que permitisse ao utilizador fazer login e, de seguida, escolher a região, bem como quantos dias de previsão queria (limite de 5 dias, devido à API), armazenar novas contas criadas numa DB (sqlite foi a escolhida) e, por último, dar a possibilidade de utilizar um leitor RFID para o utilizador entrar diretamente na sua conta.</p>
+
+                                <p>Usei o Gitlab para guardar a informação do desenvolvimento.</p>
+                            </li>
+                            <div class="img-left">
+                                <img src="images/logs.png" alt="imagem da aplicação Python 3 IPMA">
+                            </div>
+
+                            <br>
+                            <br>    
+                            <div class="spacing"> </div>
+
+                            <li>
+                                <p style="text-align: justify;">O segundo projeto foi fazer uma aplicação que lesse os conteúdos de uma determinada pasta. O projeto tinha como requisitos fazer o aplicativo usando a linguagem Shell Script. A função era a leitura das pastas e fazer um backup incremental, bem como informar quais foram os últimos ficheiros alterados e por qual utilizador. </p>
+                            </li>
+                            <div class="img-right">
+                                <img src="images/shell.png" alt="imagem do codigo em shellscript">
+                            </div>
+
+                            <br>
+                            <div class="spacing"></div>
+
+                            <li>
+                                <p style="text-align: justify;">Este foi o último e o maior projeto do curso, realizado em grupos de 2, e tinha como objetivo colocarmos todo o conhecimento que adquirimos ao longo do curso. De uma forma muito resumida, tínhamos de criar a rede de uma empresa do zero. Isto envolvia planeamento e configuração de switches, routers e firewall, configuração dos dois servidores com vários serviços, nomeadamente LDAP (suporte de autenticação de Computadores Windows e Linux na rede), Snort (análise de pacotes de rede), VOIP (Voz em IP utilizamos o Asterisk), Mail (RoundCube), entre muitos serviços. Posso dizer que não me importava nada de voltar a fazê-lo.</p>
+                                <p style="text-align: justify;">Nota: Foram queimadas muitas horas à volta de erros parvos, mas conseguimos fazer o projeto todo apenas usando servidores a correr Linux (únicos da turma).</p>
+                            </li>
+                            <div class="img-left">
+                                <img src="images/pirsi.png" alt="Plano de rede para projeto de pirsi">
+                            </div>
+                        </ol>
+                    
+
+                    <div class="extra_spacing"></div>
+                    
+                        <h3>Projetos Pessoais</h3>
+                        <ul>
+                            <li><p style="text-align: justify;">A nível pessoal, tenho alguns projetos a decorrer. O primeiro e mais importante é o meu HomeServer/Lab, resumidamente, é um projeto sempre a sofrer alterações. Alguns dos serviços a correr são Servidor de VPN (Wireguard), isto permite-me, em qualquer lugar, ligar-me à minha rede de casa e aceder a algum ficheiro que precise, bem como a vantagem de me proteger se tiver de me ligar a alguma rede pública, WebServer (WordPress, tinha ideia de fazer uma página minha com algumas informações), NextCloud (serve para fazer sync de fotos, vídeos e ficheiros sem estar dependente da google ou outro serviço que eu não tenha o controlo) e, por último, Docker com WebUI do Portainer que permite-me gerir todos os meus Containers ("Mini VirutalMachines"). Todos os serviços acima estão cada um num container para estarem isolados do sistema principal, bem como dos outros serviços.</p></li>
+                            <br>
+                            <li><p style="text-align: justify;"></p>Nota: Já refiz o HomeServer umas 3 vezes tendo como razão trocar inicialmente de FreeBSD para Debian12 e para o atual Kubuntu 23.10 (No Desktop Env).</p></li>
+                            <div class="img-right">
+                                <img src="images/home_sv.png" alt="portainer com os containers">
+                            </div>
+                        </ul>
+
+                        <div class="extra_spacing"></div>
+
+                        <h3>RetroWave - Music</h3>
+                        <div class="img-left">
+                            <iframe width="100%" height="100%" src="https://www.youtube.com/embed/Vkp2j06NREo?si=R0wiCHZfuSM5sNMO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                        </div>
+                        
+                    </div>
+                </ul>
+            </div> 
+        </div>
+
+        <a href="#" id="scroll_top"></a>
+        <a href="#" id="scroll_bottom"></a>
+        <div id="bottom"></div>
+
+        <footer>
+            <p class="footer_txt">Made with &#129293; by: N0rbelio</p>
+        </footer>
+
+
+        <script>
+            /* nav bar scripting */
+            let sidebar = document.querySelector(".sidebar");
+            let closeBtn = document.querySelector("#btn");
+            let scrollTopBtn = document.querySelector("#scroll_top"); 
+            closeBtn.addEventListener("click", ()=> { /* close event  */ 
+                sidebar.classList.toggle("open");   
+                menuBtnChange();/* alterar btn */
+                });
+        
+            function menuBtnChange() {
+                if(sidebar.classList.contains("open")) {         /* validar se esta aberto ou n  */
+                    closeBtn.classList.replace("bx-menu", "bx-menu-alt-right");
+                }
+                else {  
+                    closeBtn.classList.replace("bx-menu-alt-right","bx-menu"); 
+                }
+            }
+
+
+            
+            /* scroll both ways */
+            window.addEventListener("DOMContentLoaded", function() {
+            /* exec btn on page load */
+            window.dispatchEvent(new Event("scroll"));
+            });
+
+            function toggleScrollButton() {
+                if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+                    scrollTopBtn.classList.add("show");
+                    scrollTopBtn.href = "#"; 
+                    scrollTopBtn.dataset.direction = "top"; /* change dir */
+                } else if (document.body.scrollHeight - window.innerHeight - document.documentElement.scrollTop > 20) {
+                    scrollTopBtn.classList.add("show");
+                    scrollTopBtn.href = "#scroll_bottom"; 
+                    scrollTopBtn.dataset.direction = "bottom"; /* change dir */
+                } else {
+                    scrollTopBtn.classList.remove("show");
+                }
+            }
+            window.addEventListener("scroll", toggleScrollButton);
+        </script>
+    </body>
+</html>
