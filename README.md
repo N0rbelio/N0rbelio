@@ -32,9 +32,9 @@
 
 <a align="center">
 <a href="https://github.com/N0rbelio/Linux-Custom-MOTD">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=N0rbelio&theme=dark&show_icons=true&repo=Linux-Custom-MOTD" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=N0rbelio&theme=dark&show_icons=true&repo=Linux-Custom-MOTD" />
 </a>
 <a href="https://github.com/N0rbelio/mc_private_server">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=N0rbelio&theme=dark&show_icons=true&repo=mc_private_server" />
+  <img align="right" src="https://github-stats-extended.vercel.app/api/pin/?username=N0rbelio&theme=dark&show_icons=true&repo=mc_private_server" />
 </a>
 
