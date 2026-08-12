@@ -26,7 +26,7 @@
 
 <h2 align="center">Status</h2>
 
-|![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=N0rbelio&theme=dark&show_icons=true) | ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=N0rbelio&theme=dark&langs_count=90&layout=compact)|
+|![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=N0rbelio&theme=dark&show_icons=true) | ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=N0rbelio&theme=dark&langs_count=30&layout=compact)|
 |----|----|
 
 
