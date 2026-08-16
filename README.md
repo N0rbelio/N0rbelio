@@ -26,10 +26,15 @@
 
 <h2 align="center">Status</h2>
 
-|![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=N0rbelio&theme=dark&show_icons=true) | ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=N0rbelio&theme=dark&langs_count=30&layout=compact)|
+|[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=N0rbelio&rank_icon=github&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=N0rbelio&rank_icon=github&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=transparent) | [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=N0rbelio&layout=donut&langs_count=10&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=N0rbelio&layout=donut&langs_count=10&theme=transparent)|
+
 |----|----|
 
 
-|<a href="https://github.com/N0rbelio/Linux-Custom-MOTD"> <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=N0rbelio&theme=dark&show_icons=true&repo=Linux-Custom-MOTD" /></a>|<a href="https://github.com/N0rbelio/mc_private_server"><img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=N0rbelio&theme=dark&show_icons=true&repo=mc_private_server" /></a>|
+|[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=N0rbelio&repo=N0rbelio%2Fmybash&show_owner=true&description_lines_count=2&theme=transparent)](https://github.com/N0rbelio/mybash) | [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=N0rbelio&repo=N0rbelio%2Fmyself&show_owner=true&description_lines_count=2&theme=transparent)](https://github.com/N0rbelio/myself)|
+
+| [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=N0rbelio&repo=N0rbelio%2FLinux-Custom-MOTD&show_owner=true&description_lines_count=2&theme=transparent)](https://github.com/N0rbelio/Linux-Custom-MOTD)| [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=N0rbelio&repo=N0rbelio%2FActiveX-Script&show_owner=true&description_lines_count=2&theme=transparent)](https://github.com/N0rbelio/ActiveX-Script)|
+
+| [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=N0rbelio&repo=N0rbelio%2FFamilyLocationAlert&show_owner=true&description_lines_count=3&theme=transparent)](https://github.com/N0rbelio/FamilyLocationAlert)| |
 |----|----|
 
